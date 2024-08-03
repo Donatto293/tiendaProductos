@@ -1,0 +1,50 @@
+[
+    {
+        "codigoProducto": "1",
+        "nombreProducto": "licuadora",
+        "inventarioProducto": 5,
+        "precioProducto": 15000.0
+    },
+    {
+        "codigoProducto": "2",
+        "nombreProducto": "portatiles",
+        "inventarioProducto": 8,
+        "precioProducto": 1500000.0
+    },
+    {
+        "codigoProducto": "3",
+        "nombreProducto": "celulares",
+        "inventarioProducto": 7,
+        "precioProducto": 900000.0
+    },
+    {
+        "codigoProducto": "4",
+        "nombreProducto": "mouse",
+        "inventarioProducto": 48,
+        "precioProducto": 50000.0
+    },
+    {
+        "codigoProducto": "5",
+        "nombreProducto": "teclado",
+        "inventarioProducto": 40,
+        "precioProducto": 80000.0
+    },
+    {
+        "codigoProducto": "6",
+        "nombreProducto": "esferos",
+        "inventarioProducto": 50,
+        "precioProducto": 50000.0
+    },
+    {
+        "codigoProducto": "7",
+        "nombreProducto": "flores",
+        "inventarioProducto": 25,
+        "precioProducto": 15000.0
+    },
+    {
+        "codigoProducto": "8",
+        "nombreProducto": "pantalla 1080",
+        "inventarioProducto": 17,
+        "precioProducto": 500000.0
+    }
+]
